@@ -17,6 +17,7 @@ The goal is to extract insights from historical sales data and visualize them in
 - Excel → Quick checks & validation
 
 📊 Power BI Dashboard
+![Dashboard Preview](./superstore_dashboard.png)
 Dashboard components:
 - Sales Trend (2014–2017) – line chart
 - Sales & Profit by Category – bar chart
