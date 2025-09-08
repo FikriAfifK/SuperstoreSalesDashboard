@@ -1,4 +1,5 @@
 **📊 Superstore Sales Analysis & Dashboard**
+
 📌 Project Overview
 This project analyzes sales performance from the Sample Superstore dataset using Python, SQL, and Power BI.
 The goal is to extract insights from historical sales data and visualize them in an interactive dashboard that supports data-driven decision-making.
