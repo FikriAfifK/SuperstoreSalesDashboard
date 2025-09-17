@@ -1,23 +1,29 @@
-**📊 Superstore Sales Analysis & Dashboard**
+# 📊 Superstore Sales Analysis & Dashboard
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project analyzes sales performance from the Sample Superstore dataset using Python, SQL, and Power BI.
 The goal is to extract insights from historical sales data and visualize them in an interactive dashboard that supports data-driven decision-making.
 
-📂 Dataset
+---
+
+## 📂 Dataset
 - Source: Sample - Superstore.csv (kaggle)
 - Rows: ~10,000
 - Columns include:
   Order Date, Ship Date, Region, Category, Sub-Category, Sales, Profit, Quantity, Discount, Customer Name, Segment
 
-🛠 Tools & Technologies
+---
+
+## 🛠 Tools & Technologies
 - Python (pandas, matplotlib, seaborn) → Data cleaning & EDA
 - SQL (MSSQL) → Data querying & aggregation
 - Power BI → Dashboard visualization
 - Excel → Quick checks & validation
 
-📊 Power BI Dashboard
+---
+
+## 📊 Power BI Dashboard
 ![Dashboard Preview](./superstore_dashboard.png)
 Dashboard components:
 - Sales Trend (2014–2017) – line chart
@@ -27,7 +33,9 @@ Dashboard components:
 - Profit by Segment – donut chart
 - KPI cards for total sales & profit
 
-📈 Insights
+---
+
+## 📈 Insights
 1. Sales Growth
    - Sales increased consistently from 216M (2014) → 356M (2017).
    - Indicates positive year-over-year business growth.
@@ -46,6 +54,8 @@ Dashboard components:
    - Corporate is also significant (~28%) → growth opportunity.
    - Home Office contributes least (~21%).
 
-🚀 Conclusion
+---
+
+## 🚀 Conclusion
 - The business shows strong and stable growth, but profitability differs across categories.
 - Strategy should focus on improving Furniture margins, expanding South region, and maintaining loyalty of top customers.
